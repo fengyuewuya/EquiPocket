@@ -1,0 +1,13 @@
+ase==3.22.1
+numpy==1.21.5
+schnetpack==2.0.0
+scikit_learn==1.2.1
+torch==1.11.0
+torch_geometric==2.1.0.post1
+torch_scatter==2.0.9
+tqdm==4.64.1
+Bio==1.5.3
+numpy==1.21.5
+pymol==0.1.0
+rdkit==2022.9.4
+
